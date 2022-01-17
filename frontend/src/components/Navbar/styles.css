@@ -20,11 +20,17 @@ header {
 
 .dsmovie-contact-container {
     display: flex;
-    align-ites: center;
+    align-items: center;
+}
+
+.dsmovie-contact-container p {
+    color: white;
 }
 
 .dsmovie-contact-link {
     margin: 0 0 0 10px;
     font-size: 12px;
 }
+
+
 
